@@ -1,0 +1,1 @@
+GOTO TO THIS LINK FOR SETUP -> https://tecadmin.net/setup-selenium-with-python-on-ubuntu-debian/ 
